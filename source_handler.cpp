@@ -2,7 +2,6 @@
 
 const wchar_t* WAKA_URL = L"https://wakatime.com/api/v1/users/@039e269a-c906-40c0-afd8-e33c509c9637/stats/all_time";
 const wchar_t* DATA_FILE = L"waka_data.json";
-const wchar_t* SAVE_FILE = L"C:\\processing_data.csv";
 
 WAKA_DATA WD{};
 
